@@ -23,6 +23,7 @@ android {
         }
     }
 
+    dynamicFeatures = [":feature1"]
 }
 
 dependencies {

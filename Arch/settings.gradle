@@ -1,2 +1,3 @@
 rootProject.name='Arch'
 include ':app'
+include ':feature1'
